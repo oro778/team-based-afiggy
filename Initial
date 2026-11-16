@@ -1,0 +1,7 @@
+echo "# team-based-afiggy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/oro778/team-based-afiggy.git
+git push -u origin main
